@@ -20,3 +20,6 @@ updates: (5/4/22)
 (any other version you may already have of this script are irrelevant and useless, no key features are available)
 
 enjoy ;)
+
+
+-- noticed slight "Luraph Script" problems, will fix in a bit
