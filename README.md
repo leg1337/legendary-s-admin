@@ -1,25 +1,24 @@
 #changelogs
 
 --[[
-updates: (5/4/22)
+updates: (5/18/22)
 
-. new void
+. fixed void
 
-. fixed most commands, issues with slow dupe etc.
+. fixed checkgrabber/ checktools / getmass
 
-. decent anti-log
+. fixed dupe
+
+. good anti log
 
 . new commands
 
-. anti-void changes
+. clientbridge :O
 
-. prints my tag in console, ensuring nobody takes credit for this script
+. low gfx, legkill (lkill), da hood related things ( custom silent aim + da hood anticheat bypass (use at your own risk !!!!) )
 
 ]]
 
 (any other version you may already have of this script are irrelevant and useless, no key features are available)
 
 enjoy ;)
-
-
--- noticed slight "Luraph Script" problems, will fix in a bit
