@@ -1,24 +1,11 @@
 #changelogs
 
 --[[
-updates: (5/18/22)
+updates: (17/8/22)
 
-. fixed void
 
-. fixed checkgrabber/ checktools / getmass
+discontinued
 
-. fixed dupe
-
-. good anti log
-
-. new commands
-
-. clientbridge :O
-
-. low gfx, legkill (lkill), da hood related things ( custom silent aim + da hood anticheat bypass (use at your own risk !!!!) )
+no promises but maybe something special soon :sunglasses:
 
 ]]
-
-(any other version you may already have of this script are irrelevant and useless, no key features are available)
-
-enjoy ;)
